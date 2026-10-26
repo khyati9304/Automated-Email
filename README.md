@@ -1,5 +1,5 @@
 An automated weekly email system that curates personalized tech content including articles, GitHub repositories, YouTube videos, project suggestions, and certification opportunities - delivered straight to your inbox every Thursday at 7 PM. 
-so a little update on this project- its working...!! yes i thought i would only get 1 email once i run this through, but BUT i m getting emails every week. and i mean i did not think it would really work but it did. so yeah, its a really good project i believe. if you have any kind of suggestions please let me know!
+so a little update on this project- its working...!! if you have any kind of suggestions please let me know!
 
  
 ##  Features
